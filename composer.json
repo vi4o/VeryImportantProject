@@ -1,0 +1,20 @@
+{
+  "name": "ViktorRobev/VeryImportantProject",
+  "description": "Very Important Project",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Viktor Robev",
+      "email": "viktorrobev@gmail.com"
+    }
+  ],
+  "config": {
+    "disable-tls": true,
+    "secure-http": false
+  },
+  "require": {
+    "aura/di": "3.2.0",
+    "phpunit/phpunit": "5.6.2"
+  }
+}
